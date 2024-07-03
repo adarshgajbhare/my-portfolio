@@ -9,14 +9,14 @@ const Resume: React.FC = () => {
         <div className="max-w-screen-md w-full mx-auto mb-8">
           <div className="hidden md:block">
             <embed
-              src="/AshutoshMathoreResume.pdf"
+              src="/AdarshGajbhareResume.pdf"
               type="application/pdf"
               className="w-full min-h-[800px]"
             />
           </div>
           <div className="block md:hidden w-full mx-auto my-8 flex justify-center">
             <Link
-              href="/AshutoshMathoreResume.pdf"
+              href="/AdarshGajbhareResume.pdf"
               download
               className="bg-gray-900 rounded-md text-white px-4 py-2"
               target="_blank"
