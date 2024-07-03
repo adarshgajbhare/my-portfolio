@@ -1,18 +1,16 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import AshutoshImage from "@/images/profile-pic-bnw.jpg";
-import LinkedinImage from "@/images/linkedin-icon.svg";
-import GithubImage from "@/images//github-mark.svg";
-import XImage from "@/images/x-icon.svg";
+import AdarshImage from "@/images/profile-pic-bnw.jpg";
+
 import { IconBrandGithub, IconBrandLinkedin, IconBrandTwitter } from '@tabler/icons-react';
 const Header = () => {
   return (
     <>
       <Link href="/">
         <Image
-          src={AshutoshImage}
-          alt="ashutosh-mathore-profile-picture"
+          src={AdarshImage}
+          alt="adarsh-gajbhare-profile-picture"
           width={50}
           height={50}
           className="rounded-full"
