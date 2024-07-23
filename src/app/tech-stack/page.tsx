@@ -8,47 +8,27 @@ const Page = () => {
       <FadeInFromBottomHOC>
         <TechStackList
           title="Front-End Technologies"
-          items={[
-            "Next.js",
-            "React.js",
-            "React Native",
-            "Redux",
-            "JavaScript",
-            "TypeScript",
-            "HTML/CSS",
-          ]}
+          items={["React.js", "Redux", "JavaScript", "HTML/CSS"]}
         />
         <TechStackList
           title="Back-End Technologies"
           items={[
-            "Node.js",
-            "Express.js",
+            "Java",
+            "Spring-boot",
+            "Microservices",
             "MongoDB",
             "SQL",
-            "REST API",
-            "GraphQL",
+
+            "Oracle",
           ]}
         />
         <TechStackList
           title="Technologies & Tools"
-          items={[
-            "AWS",
-            "Docker",
-            "Git",
-            "Firebase",
-            "Supabase",
-            "Elastic Search",
-            "Postman",
-          ]}
+          items={["Git", "Firebase"]}
         />
         <TechStackList
-          title="Additional Skills"
-          items={[
-            "DSA",
-            "System Design",
-            "Testing (Jest, Enzyme)",
-            "Agile methodologies",
-          ]}
+          title="Learning New Skills"
+          items={["Next.js", "TypeScript", "Node js"]}
         />
       </FadeInFromBottomHOC>
     </>

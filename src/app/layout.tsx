@@ -9,7 +9,7 @@ const inter = Instrument_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Adarsh Gajbhare | Portfolio",
-  description: "Software Developer & Entrepreneur at Netnimbus. Passionate about creating cutting-edge websites and digital solutions that enable businesses to thrive online.",
+  description: "Full Stack Software Engineer specializing in React.js and Java. Experienced in creating scalable web applications and optimizing performance. Passionate about leveraging cutting-edge technologies to deliver efficient, user-centric digital solutions. Seeking new opportunities to drive innovation and business growth.",
 };
 
 export default function RootLayout({

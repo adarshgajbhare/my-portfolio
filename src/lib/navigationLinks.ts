@@ -9,11 +9,11 @@ export const navigationLinks = [
         title: "Tech Stack",
         link: "/tech-stack"
     },
-    {
-        id: 3,
-        title: "Blogs",
-        link: "/blogs"
-    },
+    // {
+    //     id: 3,
+    //     title: "Blogs",
+    //     link: "/blogs"
+    // },
     {
         id: 4,
         title: "Resume",

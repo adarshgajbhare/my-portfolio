@@ -1,17 +1,17 @@
 export const experienceItems = [
     {
         id: 1,
-        title: 'Associate Engineer',
+        title: 'Associate Engineer (2 yrs 11 mos)',
         subtitle: 'Newscape Consulting',
-        isCurrent: true,
+        isCurrent: false,
         link: 'https://newscapeconsulting.com/'
     },
     // {
     //     id: 2,
-    //     title: 'Software Engineer',
-    //     subtitle: 'Azympto',
+    //     title: 'System Engineer',
+    //     subtitle: 'Newscape Consulting',
     //     isCurrent: false,
-    //     link: 'https://www.azympto.com/',
+    //     link: 'https://newscapeconsulting.com/'
     // },
     // {
     //     id: 3,

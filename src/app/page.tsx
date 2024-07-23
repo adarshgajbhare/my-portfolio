@@ -12,9 +12,7 @@ export default function Home() {
     <main >
       <FadeInFromBottomHOC>
         <p className="text-gray-200 text-lg">
-          Software Engineer at Newscape consulting. Passionate about
-          creating cutting-edge websites and digital solutions that enable
-          businesses to thrive online.
+        Full Stack Software Engineer specializing in React.js and Java. Experienced in creating scalable web applications and optimizing performance. Passionate about leveraging cutting-edge technologies to deliver efficient, user-centric digital solutions. Seeking new opportunities to drive innovation and business growth.
         </p>
         <div className="mt-16">
           <h1 className="font-medium text-gray-50 mb-4 text-lg">Experience</h1>
@@ -44,7 +42,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="mt-16">
+        {/* <div className="mt-16">
           <h1 className="font-medium text-gray-50 mb-4 text-lg">
             Latest Blogs
           </h1>
@@ -63,7 +61,7 @@ export default function Home() {
                 </div>
               </Link>
             ))}
-        </div>
+        </div> */}
         <div className="mt-16">
           <h1 className="font-medium text-gray-50 mb-4 text-lg">Education</h1>
           <ol className="relative border-s border-gray-200">
