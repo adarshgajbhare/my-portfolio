@@ -18,7 +18,7 @@ const ProjectCard = (props: ProjectCardPropsType) => {
     <motion.div
       whileHover={{ scale: 1.05, transition: { duration: 0.3 } }}
       whileTap={{ scale: 0.95, transition: { duration: 0.3 } }}
-      className="hover:bg-[#101010] p-4 rounded-md max-md:p-0 max-md:hover:bg-white"
+      className="hover:bg-[#101010] p-4 rounded-md max-md:p-0 max-md:hover:bg-[#101010]"
     >
       <Link href={link} className="flex flex-col" target="_blank" referrerPolicy="no-referrer">
         <Image
