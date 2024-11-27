@@ -16,7 +16,7 @@ const Header = () => {
           className="rounded-full"
         />
       </Link>
-      <h1 className="font-medium text-gray-50 mt-2 text-3xl ">
+      <h1 className="font-medium text-gray-50 mt-2 text-xl">
         Adarsh Gajbhare
       </h1>
       <p className="text-gray-500 ">Software Engineer</p>
