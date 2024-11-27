@@ -9,8 +9,9 @@ const inter = Instrument_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Adarsh Gajbhare | Portfolio",
-  description: "I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I'm seeking a role where I can enhance products and help businesses grow.",
+  description: "I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I&apos;m seeking a role where I can enhance products and help businesses grow.",
 };
+
 
 export default function RootLayout({
   children,

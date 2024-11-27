@@ -12,7 +12,7 @@ export default function Home() {
     <main >
       <FadeInFromBottomHOC>
         <p className="text-gray-200 text-lg">
-          I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I'm seeking a role where I can enhance products and help businesses grow. 
+        I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I&apos;m seeking a role where I can enhance products and help businesses grow.
           </p>
         <div className="mt-16">
           <h1 className="font-medium text-gray-50 mb-4 text-lg">Experience</h1>
