@@ -12,8 +12,8 @@ export default function Home() {
     <main >
       <FadeInFromBottomHOC>
         <p className="text-gray-200 text-lg">
-        Full Stack Software Engineer specializing in React.js and Java. Experienced in creating scalable web applications and optimizing performance. Passionate about leveraging cutting-edge technologies to deliver efficient, user-centric digital solutions. Seeking new opportunities to drive innovation and business growth.
-        </p>
+        I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I&apos;m seeking a role where I can enhance products and help businesses grow.
+          </p>
         <div className="mt-16">
           <h1 className="font-medium text-gray-50 mb-4 text-lg">Experience</h1>
           <ol className="relative border-s border-gray-200">

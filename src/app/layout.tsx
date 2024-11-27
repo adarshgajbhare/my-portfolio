@@ -9,8 +9,9 @@ const inter = Instrument_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Adarsh Gajbhare | Portfolio",
-  description: "Full Stack Software Engineer specializing in React.js and Java. Experienced in creating scalable web applications and optimizing performance. Passionate about leveraging cutting-edge technologies to deliver efficient, user-centric digital solutions. Seeking new opportunities to drive innovation and business growth.",
+  description: "I develop scalable backend systems with Java Spring Boot, adding front-end support with React when needed. I&apos;m seeking a role where I can enhance products and help businesses grow.",
 };
+
 
 export default function RootLayout({
   children,
